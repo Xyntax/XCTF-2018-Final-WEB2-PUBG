@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f947727-584d-49f4-94c5-5276388d7b85" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="payapi_return2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kss_inc/payapi_return2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2992">
+              <caret line="136" column="74" lean-forward="false" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="74" />
+              <folding>
+                <marker date="1535642221000" expanded="true" signature="7177:7261" ph="select * fro... kss_tb_order" />
+                <marker date="1535642221000" expanded="true" signature="11233:11455" ph="select `keyf... kss_z_key_${$_obfuscate_lZGQj4iOj4mTlZGNjZGUj5E�['pid']}_${$_obfuscate_lZGQj4iOj4mTlZGNjZGUj5E�['softid']}" />
+                <marker date="1535642221000" expanded="true" signature="11803:11827" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kss_inc/_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_update.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kss_admin/admin_update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="126" column="8" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="126" selection-end-column="8" />
+              <folding>
+                <marker date="1535642220000" expanded="true" signature="5490:5519" ph="..." />
+                <marker date="1535642220000" expanded="true" signature="6567:6592" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kss_inc/db_function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="306" column="58" lean-forward="false" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+              <folding>
+                <marker date="1535642221000" expanded="true" signature="923:948" ph="select * fro... kss_tb_soft" />
+                <marker date="1535642221000" expanded="true" signature="1070:1205" ph="delete from " />
+                <marker date="1535642221000" expanded="true" signature="1477:1515" ph="select * fro... kss_tb_config" />
+                <marker date="1535642221000" expanded="true" signature="1626:1691" ph="update kss_t... " />
+                <marker date="1535642221000" expanded="true" signature="1830:1855" ph="select * fro... kss_tb_soft" />
+                <marker date="1535642221000" expanded="true" signature="2297:2410" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="2845:3607" ph="CREATE TABLE... kss_z_cz_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+                <marker date="1535642221000" expanded="true" signature="4043:4157" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="4593:5852" ph="CREATE TABLE... kss_z_key_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+                <marker date="1535642221000" expanded="true" signature="6289:6411" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="6855:8223" ph="CREATE TABLE... kss_z_key_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}_recycle" />
+                <marker date="1535642221000" expanded="true" signature="8668:8782" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="9218:9949" ph="CREATE TABLE... kss_z_log_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+                <marker date="1535642221000" expanded="true" signature="10386:10501" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="10938:13020" ph="CREATE TABLE... kss_z_user_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+                <marker date="1535642221000" expanded="true" signature="13458:13581" ph="DROP TABLE I... " />
+                <marker date="1535642221000" expanded="true" signature="14026:16215" ph="CREATE TABLE... kss_z_user_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}_recycle" />
+                <marker date="1535642221000" expanded="true" signature="17239:17417" ph="select * fro... kss_tb_keyset" />
+                <marker date="1535642221000" expanded="true" signature="20343:20521" ph="select * fro... kss_tb_keyset" />
+                <marker date="1535642221000" expanded="true" signature="25653:25692" ph="select * fro... kss_tb_keyset" />
+                <marker date="1535642221000" expanded="true" signature="25970:26214" ph="insert into `kss_z_key_${$_obfuscate_lJWSjJCKkI2UiJKUlYaLjZU�['pid']}_${$_obfuscate_lJWSjJCKkI2UiJKUlYaLjZU�['softid']}`... " />
+                <marker date="1535642221000" expanded="true" signature="28541:28733" ph="delete from " />
+                <marker date="1535642221000" expanded="true" signature="31761:31846" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="33023:33061" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="33867:33965" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="35130:35169" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="37248:37758" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="37410:37528" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="37614:37754" ph="..." />
+                <marker date="1535642221000" expanded="true" signature="37616:37752" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="37844:38066" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="37983:38023" ph="select * fro... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="38115:38485" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="38286:38325" ph="select max(`... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="38391:38427" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="38534:41973" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="38654:39039" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="39079:39112" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="39148:39181" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="39400:39673" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="39503:39667" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="39793:39818" ph="select * fro... kss_tb_soft" />
+                <marker date="1535642221000" expanded="true" signature="39916:40317" ph="{...}" />
+                <marker date="1535642221000" expanded="true" signature="40398:40476" ph="update kss_t... " />
+                <marker date="1535642221000" expanded="true" signature="40569:40651" ph="update kss_t... " />
+                <marker date="1535642221000" expanded="true" signature="40756:41726" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kss_inc/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="136" column="1" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="136" selection-end-column="1" />
+              <folding>
+                <marker date="1535642221000" expanded="true" signature="1075:1371" ph="SELECT kss_t... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="1653:1971" ph="SELECT kss_t... kss_tb_manager" />
+                <marker date="1535642221000" expanded="true" signature="40547:40553" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$(_GET|_POST|_COOKIE|_)</find>
+      <find>$(_GET|_POST|_COOKIE|_R)</find>
+      <find>$(_GET|_POST|_COOKIE|_RE)</find>
+      <find>$(_GET|_POST|_COOKIE|_REQ)</find>
+      <find>$(_GET|_POST|_COOKIE|_REQUE)</find>
+      <find>$(_GET|_POST|_COOKIE|_REQUES)</find>
+      <find>$(_GET|_POST|_COOKIE|_REQUEST)</find>
+      <find>\$(_GET|_POST|_COOKIE|_REQUEST)</find>
+      <find>c</find>
+      <find>create</find>
+      <find>create ra</find>
+      <find>create r</find>
+      <find>create ta</find>
+      <find>ks</find>
+      <find>kss_t</find>
+      <find>kss_tb_mana</find>
+      <find>kss_tb_manager</find>
+      <find>kss_tbmanager</find>
+      <find>kss_tmanager</find>
+      <find>kss_manager</find>
+      <find>kss_manager_</find>
+      <find>kss_manager_v</find>
+      <find>kss_manager_ve</find>
+      <find>kss_manager_ver</find>
+      <find>d</find>
+      <find>efef</find>
+      <find>efefe</find>
+      <find>efefef</find>
+      <find>efefefe</find>
+      <find>efefefef</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/kss_admin</dir>
+      <dir>$PROJECT_DIR$/kss_inc</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kss_inc/function.php" />
+        <option value="$PROJECT_DIR$/kss_inc/db_function.php" />
+        <option value="$PROJECT_DIR$/kss_io/v10_zhuce.php" />
+        <option value="$PROJECT_DIR$/kss_inc/testestes.php" />
+        <option value="$PROJECT_DIR$/kss_inc/payapi_return2.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kss_tool" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kss_logs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kss_inc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DECODED" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kss_admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f947727-584d-49f4-94c5-5276388d7b85" name="Default" comment="" />
+      <created>1541089426568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541089426568</updated>
+      <workItem from="1541089428882" duration="20677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20677000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="36" y="23" width="1398" height="837" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17846608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/kss_inc/db_function.php</url>
+          <line>422</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/kss_inc/db_function.php</url>
+          <line>368</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/kss_inc/function.php</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kss_admin/admin_logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_admin/k/edituser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="97" column="46" lean-forward="true" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_admin/k/keylist_cmd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="155" column="93" lean-forward="false" selection-start-line="155" selection-start-column="93" selection-end-line="155" selection-end-column="93" />
+          <folding>
+            <marker date="1535642220000" expanded="true" signature="2679:3013" ph="select A.`ke... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="6969:7108" ph="select `keys... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="8597:8940" ph="select `mana... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="9114:9238" ph="delete from " />
+            <marker date="1535642220000" expanded="true" signature="12199:12338" ph="select `keys... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="14969:15116" ph="select `keys... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="16579:16873" ph="select `mana... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="17047:17179" ph="delete from " />
+            <marker date="1535642220000" expanded="true" signature="18650:19199" ph="select A.`or... kss_z_key_" />
+            <marker date="1535642220000" expanded="true" signature="22007:22156" ph="select `keyc... kss_tb_order" />
+            <marker date="1535642220000" expanded="true" signature="33834:33884" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="36391:36425" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="36584:37101" ph="insert into `kss_tb_log_agentrmb`... " />
+            <marker date="1535642220000" expanded="true" signature="37840:37983" ph="update kss_t... " />
+            <marker date="1535642220000" expanded="true" signature="38488:38584" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642220000" expanded="true" signature="39153:39683" ph="insert into `kss_tb_log_agentrmb`... " />
+            <marker date="1535642220000" expanded="true" signature="40454:40597" ph="update kss_t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/payapi_notify2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="618" column="92" lean-forward="false" selection-start-line="618" selection-start-column="92" selection-end-line="618" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_admin/manager/cz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="73" />
+          <folding>
+            <marker date="1535642220000" expanded="true" signature="1252:1343" ph="select * fro... kss_tb_log_agentrmb" />
+            <marker date="1535642220000" expanded="true" signature="2105:2168" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642220000" expanded="true" signature="4912:5003" ph="select * fro... kss_tb_log_agentrmb" />
+            <marker date="1535642220000" expanded="true" signature="8724:8737" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="8801:8826" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="8878:8884" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="8953:8966" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="9031:9055" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="9111:9117" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="9186:9199" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="9264:9289" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="14431:14869" ph="insert into `kss_tb_log_agentrmb`... " />
+            <marker date="1535642220000" expanded="true" signature="16626:16632" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="16632:16638" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="16867:16873" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="18021:18046" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="20512:20603" ph="select * fro... kss_tb_log_agentrmb" />
+            <marker date="1535642220000" expanded="true" signature="22807:22813" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="22975:22981" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="22994:23000" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="23045:23051" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24185:24191" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24191:24197" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24298:24304" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24304:24310" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24467:24473" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24473:24479" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24630:24636" ph=" " />
+            <marker date="1535642220000" expanded="true" signature="24636:24642" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/notifyid.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_admin/c_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/mysql.cls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="240" column="152" lean-forward="false" selection-start-line="240" selection-start-column="117" selection-end-line="240" selection-end-column="152" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="4066:4090" ph="insert into `kss_tb_sql`... " />
+            <marker date="1535642221000" expanded="true" signature="4555:4693" ph="insert into `kss_tb_sql`... " />
+            <marker date="1535642221000" expanded="true" signature="5289:5402" ph="insert into `kss_tb_lock`... " />
+            <marker date="1535642221000" expanded="true" signature="5586:5678" ph="select lockt... kss_tb_lock" />
+            <marker date="1535642221000" expanded="true" signature="5857:5940" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="7429:7514" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="11540:11719" ph="insert into `${$_obfuscate_k5WOjYqNj4mOiJGGipOQiIY�}`... " />
+            <marker date="1535642221000" expanded="true" signature="11800:11979" ph="insert into `${$_obfuscate_k5WOjYqNj4mOiJGGipOQiIY�}`... " />
+            <marker date="1535642221000" expanded="true" signature="14458:14522" ph="select max(`... ${$_obfuscate_k5WOjYqNj4mOiJGGipOQiIY�}" />
+            <marker date="1535642221000" expanded="true" signature="15202:15273" ph="ALTER TABLE `${$_obfuscate_k5WOjYqNj4mOiJGGipOQiIY�}`... " />
+            <marker date="1535642221000" expanded="true" signature="17621:17627" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="17627:17633" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="17763:17769" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="18608:18614" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="18702:18708" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="19729:19735" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="19809:19815" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="19871:19877" ph=" " />
+            <marker date="1535642221000" expanded="true" signature="19951:19957" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/v10_chongzhi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3809">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="2707:2846" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="6503:6656" ph="select * fro... kss_z_key_" />
+            <marker date="1535642221000" expanded="true" signature="11229:11449" ph="SELECT * fro... kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="12775:13311" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="16163:16661" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="17221:17362" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="20229:20731" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="22603:23103" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_ip/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_tool/repair.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_tool/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1535642222000" expanded="true" signature="9974:10012" ph="select * fro... kss_tb_config" />
+            <marker date="1535642222000" expanded="true" signature="10509:10534" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642222000" expanded="true" signature="11933:11954" ph="..." />
+            <marker date="1535642222000" expanded="true" signature="12538:12544" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12544:12550" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12550:12556" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12556:12562" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12660:12666" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12666:12672" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12672:12678" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12678:12684" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="12948:12954" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="14139:14145" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="14145:14151" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="14151:14157" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="14157:14163" ph=" " />
+            <marker date="1535642222000" expanded="true" signature="14472:14513" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1535642220000" expanded="true" signature="721:739" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/alipay_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="63" column="43" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_api/io.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="774" column="28" lean-forward="true" selection-start-line="774" selection-start-column="28" selection-end-line="774" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/saledebug1_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/query_errlog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/mailbak_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/findbug_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/err_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/agentczdebug2_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/agentczdebug1_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/addkeyerrorder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/sendsqldata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_logs/saledebug2_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_ip/cc_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/v10_chaxun.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="2315:2426" ph="select * fro... kss_olddata" />
+            <marker date="1535642221000" expanded="true" signature="3209:3536" ph="select * fro... kss_z_user_" />
+            <marker date="1535642221000" expanded="true" signature="5987:6307" ph="select * fro... kss_z_key_" />
+            <marker date="1535642221000" expanded="true" signature="10117:10228" ph="select * fro... kss_olddata" />
+            <marker date="1535642221000" expanded="true" signature="11215:11535" ph="select * fro... kss_z_key_" />
+            <marker date="1535642221000" expanded="true" signature="15026:15163" ph="select * fro... kss_z_user_" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/v10_chk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5023">
+          <caret line="517" column="123" lean-forward="false" selection-start-line="517" selection-start-column="123" selection-end-line="517" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/clsdata.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/rpc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6688">
+          <caret line="304" column="1" lean-forward="true" selection-start-line="304" selection-start-column="1" selection-end-line="304" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/v10_zhuce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="362" column="95" lean-forward="true" selection-start-line="368" selection-start-column="206" selection-end-line="368" selection-end-column="241" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="4900:4955" ph="select count... kss_z_user_" />
+            <marker date="1535642221000" expanded="true" signature="8383:8488" ph="select * fro... kss_tb_log_havereg" />
+            <marker date="1535642221000" expanded="true" signature="8902:9073" ph="insert into kss_tb_log_havereg... " />
+            <marker date="1535642221000" expanded="true" signature="9838:9916" ph="SELECT `nono... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="10822:10975" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="11523:11650" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="11913:12048" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}_recycle" />
+            <marker date="1535642221000" expanded="true" signature="16570:16723" ph="select * fro... kss_z_key_" />
+            <marker date="1535642221000" expanded="true" signature="22344:22742" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="25591:26068" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="26754:26881" ph="SELECT * fro... kss_z_user_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}" />
+            <marker date="1535642221000" expanded="true" signature="29630:30120" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+            <marker date="1535642221000" expanded="true" signature="32409:32897" ph="insert into kss_z_cz_${$_obfuscate_jpOTkJCPjI_TipSPjoeTjYs�}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/io.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="348" column="41" lean-forward="true" selection-start-line="348" selection-start-column="41" selection-end-line="348" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/io_ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_io/io_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="9864:9911" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="9955:10001" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10053:10095" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10144:10193" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10246:10292" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10345:10389" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10545:10570" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642221000" expanded="true" signature="10704:10839" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="10906:11050" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="11106:11249" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="12191:12229" ph="select * fro... kss_tb_config" />
+            <marker date="1535642221000" expanded="true" signature="12433:12497" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="18403:18455" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="27990:28015" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642221000" expanded="true" signature="28595:28673" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="28766:28848" ph="update kss_t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/testestes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/sync_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="659" column="12" lean-forward="true" selection-start-line="659" selection-start-column="9" selection-end-line="659" selection-end-column="15" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="3205:3331" ph="select * fro... ${$_obfuscate_j5KIipONlJSQiYmTiYeVlYk�}" />
+            <marker date="1535642221000" expanded="true" signature="3546:3768" ph="select * fro... ${$_obfuscate_jo6SlY_VkouJhoqGio2IiZI�}" />
+            <marker date="1535642221000" expanded="true" signature="3920:4044" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="5199:5323" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="9909:10155" ph="insert into `kss_tb_sql`... " />
+            <marker date="1535642221000" expanded="true" signature="11048:11128" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="13192:13429" ph="insert into kss_tb_sql_points... " />
+            <marker date="1535642221000" expanded="true" signature="16782:16873" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="17170:17282" ph="select * fro... kss_tb_sql" />
+            <marker date="1535642221000" expanded="true" signature="17975:18011" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="18360:18423" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="19095:19246" ph="select * fro... kss_tb_sql" />
+            <marker date="1535642221000" expanded="true" signature="19560:19637" ph="select * fro... kss_tb_sql_points" />
+            <marker date="1535642221000" expanded="true" signature="20228:20271" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="20591:20707" ph="select * fro... kss_tb_sql_points" />
+            <marker date="1535642221000" expanded="true" signature="23044:23124" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="23221:23271" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="24496:24547" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="25681:25761" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="25858:25908" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="26655:26753" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="26849:26947" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="27082:27189" ph="select * fro... kss_tb_sql_points" />
+            <marker date="1535642221000" expanded="true" signature="27487:27567" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="27706:27813" ph="select * fro... kss_tb_sql_points" />
+            <marker date="1535642221000" expanded="true" signature="28153:28260" ph="select * fro... kss_tb_sql_active" />
+            <marker date="1535642221000" expanded="true" signature="28558:28638" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="28777:28884" ph="select * fro... kss_tb_sql_active" />
+            <marker date="1535642221000" expanded="true" signature="29724:29811" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="30105:30192" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="30333:30420" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="30714:30801" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="36433:36576" ph="insert into `kss_tb_log_task`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/payapi_return2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="136" column="74" lean-forward="false" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="74" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="7177:7261" ph="select * fro... kss_tb_order" />
+            <marker date="1535642221000" expanded="true" signature="11233:11455" ph="select `keyf... kss_z_key_${$_obfuscate_lZGQj4iOj4mTlZGNjZGUj5E�['pid']}_${$_obfuscate_lZGQj4iOj4mTlZGNjZGUj5E�['softid']}" />
+            <marker date="1535642221000" expanded="true" signature="11803:11827" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/db_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="306" column="58" lean-forward="false" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="923:948" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642221000" expanded="true" signature="1070:1205" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="1477:1515" ph="select * fro... kss_tb_config" />
+            <marker date="1535642221000" expanded="true" signature="1626:1691" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="1830:1855" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642221000" expanded="true" signature="2297:2410" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="2845:3607" ph="CREATE TABLE... kss_z_cz_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+            <marker date="1535642221000" expanded="true" signature="4043:4157" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="4593:5852" ph="CREATE TABLE... kss_z_key_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+            <marker date="1535642221000" expanded="true" signature="6289:6411" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="6855:8223" ph="CREATE TABLE... kss_z_key_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}_recycle" />
+            <marker date="1535642221000" expanded="true" signature="8668:8782" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="9218:9949" ph="CREATE TABLE... kss_z_log_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+            <marker date="1535642221000" expanded="true" signature="10386:10501" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="10938:13020" ph="CREATE TABLE... kss_z_user_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}" />
+            <marker date="1535642221000" expanded="true" signature="13458:13581" ph="DROP TABLE I... " />
+            <marker date="1535642221000" expanded="true" signature="14026:16215" ph="CREATE TABLE... kss_z_user_${$_obfuscate_koeLiIiJjJOQlIaJi4aUh5A�}_${$_obfuscate_jpKNh4aRh4aQkY2PlIuRhpE�}_recycle" />
+            <marker date="1535642221000" expanded="true" signature="17239:17417" ph="select * fro... kss_tb_keyset" />
+            <marker date="1535642221000" expanded="true" signature="20343:20521" ph="select * fro... kss_tb_keyset" />
+            <marker date="1535642221000" expanded="true" signature="25653:25692" ph="select * fro... kss_tb_keyset" />
+            <marker date="1535642221000" expanded="true" signature="25970:26214" ph="insert into `kss_z_key_${$_obfuscate_lJWSjJCKkI2UiJKUlYaLjZU�['pid']}_${$_obfuscate_lJWSjJCKkI2UiJKUlYaLjZU�['softid']}`... " />
+            <marker date="1535642221000" expanded="true" signature="28541:28733" ph="delete from " />
+            <marker date="1535642221000" expanded="true" signature="31761:31846" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="33023:33061" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="33867:33965" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="35130:35169" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="37248:37758" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="37410:37528" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="37614:37754" ph="..." />
+            <marker date="1535642221000" expanded="true" signature="37616:37752" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="37844:38066" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="37983:38023" ph="select * fro... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="38115:38485" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="38286:38325" ph="select max(`... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="38391:38427" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="38534:41973" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="38654:39039" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="39079:39112" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="39148:39181" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="39400:39673" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="39503:39667" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="39793:39818" ph="select * fro... kss_tb_soft" />
+            <marker date="1535642221000" expanded="true" signature="39916:40317" ph="{...}" />
+            <marker date="1535642221000" expanded="true" signature="40398:40476" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="40569:40651" ph="update kss_t... " />
+            <marker date="1535642221000" expanded="true" signature="40756:41726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_inc/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="136" column="1" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="136" selection-end-column="1" />
+          <folding>
+            <marker date="1535642221000" expanded="true" signature="1075:1371" ph="SELECT kss_t... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="1653:1971" ph="SELECT kss_t... kss_tb_manager" />
+            <marker date="1535642221000" expanded="true" signature="40547:40553" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kss_admin/admin_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="126" column="8" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="126" selection-end-column="8" />
+          <folding>
+            <marker date="1535642220000" expanded="true" signature="5490:5519" ph="..." />
+            <marker date="1535642220000" expanded="true" signature="6567:6592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

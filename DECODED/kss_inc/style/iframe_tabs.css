@@ -1,0 +1,32 @@
+body,html{height:100%;background-color:#C6DEF2}
+a{cursor:pointer;}
+#div_pannel{position:absolute;width:100%;top:26px;height:500px}
+*{font-family: "Microsoft YaHei","Hiragino Sans GB","Verdana", "sans-serif","ËÎÌו";font-size:12px;margin:0;padding:0;}
+#div_tab{position: absolute;background:#E6F0F7;width:5000px;height:26px;padding:0;margin:0;}
+#div_tab li{float:left;text-align:center;position:relative;list-style:none;}	
+#div_tab li{background:url(../../kss_inc/images/t_tab_uselectbg.gif);margin-top:3px;height:23px;}
+#div_tab li span{background:url(../../kss_inc/images/t_tab_uselectbg.gif);height:23px;line-height:23px;}	
+#div_tab li.crent{background:url(../../kss_inc/images/t_tab_selectbg.gif);margin-top:2px;height:24px;}
+#div_tab li.crent span{background:url(../../kss_inc/images/t_tab_selectbg.gif);height:24px;line-height:24px;}	
+#div_tab li,#div_tab li.crent{color:#fff;background-repeat:no-repeat;background-position:0 0;}        
+#div_tab li span,#div_tab li.crent span{display:inline-block;padding:0 36px 0 15px;background-repeat:no-repeat;background-position:right bottom;}	
+#div_tab li .menua{color:#444;font-size:12px; text-decoration:none;position:relative;}
+#div_tab li.crent .menua{color:#ff0000;}
+
+#div_tab li .win_close,#div_tab li.crent .win_close{width:14px;height:14px;position:absolute;top:4px;right:5px;cursor:pointer;display:block;overflow:hidden;background:url(../../kss_inc/images/t_delete_ico.gif) no-repeat;}                
+#div_tab li .win_close{background-position:0 -14px;}
+#div_tab li .win_close:hover{background-position:0 0;}	
+
+.databartable{border:0;background-color:#aaa}
+.databartable td{padding:4px;color:#222}
+.vth{text-align:right;background:#ddd}
+.vtd{text-align:left;background:#f6f6f6}
+
+#viewbar{display:bolck;background:#FAF2C0;font-size:12px;position:absolute;bottom:47px;left:0;width:100%;height:30px;padding:3px;border:1px solid #9C9461;}
+#viewbartd{color:#f00;line-height:20px}
+.clearfix:after {content:"."; display:block;height:0;clear:both; visibility:hidden;} 
+*html .clearfix{height:1%;}
+*+html .clearfix{height:1%;}
+.clearfix{display:inline-block;} 
+/* Hide from IE Mac */ 
+.clearfix {display:block;}

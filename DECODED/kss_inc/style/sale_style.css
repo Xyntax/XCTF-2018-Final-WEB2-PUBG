@@ -1,0 +1,25 @@
+﻿*{font-family: "Microsoft YaHei","Hiragino Sans GB","Verdana", "sans-serif","宋体";font-size:12px;}
+body{background:#DAE9F2 url(../images/sale_bg.png) repeat-x;}
+a{color:#0D2F4F;}
+.stable{margin-top:10px;border-bottom:2px solid #FF9A13}
+.stable td{padding:5px}
+.softbox{margin-top:30px;background:#f6f6f6}
+.td1{line-height:150%;background:#FF9A13;width:750px;height:30px;font-size:14px;font-weight:400}
+.td2{line-height:150%;background:#FF9A13;width:250px}
+.td3{line-height:150%;background:#f6f6f6 url(../images/sale_le.gif) no-repeat 100% 0;}
+.td4{line-height:150%;background:#FBEFDF}
+.pad{margin:5px}
+.buy,#search{cursor:pointer}
+/* 提交按钮样式 */
+.submitbtn_{color:#fff;font-size:10.5pt;font-weight:700;margin:0;background:url(../images/btnbg1.png);border:0;width:92px;height:24px;line-height:24px;text-align:center;cursor:pointer;vertical-align:middle}
+.submitbtn{color:#D3EDBE;font-size:10.5pt;font-weight:700;margin:0;background:url(../images/btnbg2.png);border:0;width:92px;height:24px;line-height:24px;text-align:center;cursor:pointer;vertical-align:middle}
+
+/* 提交按钮样式 */
+.submitbtnn_{color:#fff;font-size:13px;font-weight:400;margin:0;background:url(../images/btnbgn1.png);border:1px solid #236300;width:220px;height:24px;line-height:22px;text-align:center;cursor:pointer;vertical-align:middle;}
+.submitbtnn{color:#D3EDBE;font-size:13px;font-weight:400;margin:0;background:url(../images/btnbgn2.png);border:1px solid #236300;width:220px;height:24px;line-height:22px;text-align:center;cursor:pointer;vertical-align:middle;}
+
+
+#tablenav{background-color:#D8E7F0}
+#softlistnav{border:0;width:1000px;*width:1000px}
+#softlistnav span{display:block;float:left;width:142px;}
+#softlistnav a{display:block;padding:10px 5px;}
